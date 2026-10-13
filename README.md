@@ -18,7 +18,7 @@ Full stack developer with 9+ years of experience building Android, iOS, web, des
 | [![NoTicket](https://raw.githubusercontent.com/developer-vic/portfolio/main/images/noticket-traffic-camera-alert-dispute-app.png)](https://github.com/developer-vic/portfolio/blob/main/case-studies/08-noticket-traffic-camera-alert-dispute-app.md)<br>**NoTicket:** traffic camera alerts for iOS and Android with in app subscriptions | [![Canva automation](https://raw.githubusercontent.com/developer-vic/portfolio/main/images/canva-multi-language-design-automation-extension.png)](https://github.com/developer-vic/portfolio/blob/main/case-studies/02-canva-multi-language-design-automation-extension.md)<br>**Canva automation:** Chrome extension that cut 3+ hours per design to about 15 minutes |
 | [![Currency directory](https://raw.githubusercontent.com/developer-vic/portfolio/main/images/seo-currency-directory-custom-admin-dashboard.png)](https://github.com/developer-vic/portfolio/blob/main/case-studies/03-seo-currency-directory-custom-admin-dashboard.md)<br>**Currency directory:** Next.js admin panel and local SEO pages for 100+ US cities | [![FuelEasy](https://raw.githubusercontent.com/developer-vic/portfolio/main/images/fueleasy-mobile-net-maui-fuel-station-locator.png)](https://github.com/developer-vic/portfolio/blob/main/case-studies/06-fueleasy-mobile-net-maui-fuel-station-locator.md)<br>**FuelEasy:** .NET MAUI fuel station locator for iOS and Android |
 
-**[See all 24 case studies](https://github.com/developer-vic/portfolio)**
+**[See all 28 case studies](https://github.com/developer-vic/portfolio)**
 
 ## Open source
 
